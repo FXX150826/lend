@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lend"
+  id="myeclipse.1498565420932"
+  context-root="/lend"
+  j2ee-spec="5.0"
+  archive="lend.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
